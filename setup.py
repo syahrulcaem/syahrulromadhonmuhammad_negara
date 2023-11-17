@@ -16,7 +16,7 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    url='https://github.com/syahrulcaem/Informasi_negara',
+    url='https://github.com/syahrulcaem/syahrulromadhonmuhammad_negara',
     packages=find_packages(),
     license='MIT',
     install_requires=[],
